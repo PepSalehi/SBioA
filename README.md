@@ -1,9 +1,22 @@
 SBioA
 =====
 
-An introduction to Structural Bioinformatics Algorithms and scientific computing using Python/PyMOL. All the material will be uploaded soon (probably during January).
+An introduction to Structural Bioinformatics Algorithms and scientific computing using Python/PyMOL. 
 
-The first version of the material will be available in english, altought a translation to spanish is planned in the short time. (El material estará disponible primero en ingles y más adelante en español)
+## Contents
+
+The best way to take advante of this material is to download a copy of this repository and run it in your computer (see below for installation details)
+
+Alternative, you can see the static versions of the notebooks by following the above links
+
+0. Introduction (http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/00_Introduction.ipynb)
+1. NumPy introduction (http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/01_NumPy_introduction.ipynb)
+2. Primer on Linear Algebra (http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/02_Primer_on_Linear_Algebra.ipynb)
+3. Distances, angles and geometry (http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/03_Distances_angles_and_geometry.ipynb)
+4. Comparing structures (http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/04_Comparing_structures.ipynb)
+5. Coming really soon...
+6. Coming almost really soon...
+7. Coming soon...
 
 
 Installation and configuration
@@ -28,4 +41,8 @@ sudo apt-get install pymol python-numpy python-scipy python-matplotlib ipython i
 
 ### Windows users
 A good idea will be to install all the above packages using a python distribution like [Anaconda](https://store.continuum.io/cshop/anaconda/) or [EPD](https://www.enthought.com/products/epd/)
+
+
+## Language 
+The first version of the material will be available in english, although a translation to Spanish is planned in the short time. (El material estará disponible primero en ingles y más adelante en español)
 
