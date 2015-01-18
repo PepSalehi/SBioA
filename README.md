@@ -9,11 +9,11 @@ The best way to take advante of this material is to download a copy of this repo
 
 Alternative, you can see the static versions of the notebooks by following the above links
 
-0. Introduction (http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/00_Introduction.ipynb)
-1. NumPy introduction (http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/01_NumPy_introduction.ipynb)
-2. Primer on Linear Algebra (http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/02_Primer_on_Linear_Algebra.ipynb)
-3. Distances, angles and geometry (http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/03_Distances_angles_and_geometry.ipynb)
-4. Comparing structures (http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/04_Comparing_structures.ipynb)
+0. [Introduction](http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/00_Introduction.ipynb)
+1. [NumPy introduction](http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/01_NumPy_introduction.ipynb)
+2. [Primer on Linear Algebra](http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/02_Primer_on_Linear_Algebra.ipynb)
+3. [Distances, angles and geometry](http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/03_Distances_angles_and_geometry.ipynb)
+4. [Comparing structures](http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/04_Comparing_structures.ipynb)
 5. Coming really soon...
 6. Coming almost really soon...
 7. Coming soon...
