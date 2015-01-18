@@ -5,7 +5,7 @@ An introduction to Structural Bioinformatics Algorithms and scientific computing
 
 ## Contents
 
-The best way to take advante of this material is to download a copy of this repository and run it in your computer (see below for installation details)
+The best way to take advantage of this material is to download a copy of this repository and run it in your computer (see below for installation details)
 
 Alternative, you can see the static versions of the notebooks by following the above links
 
@@ -22,6 +22,8 @@ Alternative, you can see the static versions of the notebooks by following the a
 Installation and configuration
 ------
 
+You will need the following packages
+
 -  Python 2.7
 -  PyMOL
 -  NumPy
@@ -29,6 +31,7 @@ Installation and configuration
 -  Matplotlib
 -  Seaborn (optional)
 -  IPython
+
 
 ### Linux users
 All the above packages are available with most Linux distributions (except probably seaborn that can be downloaded [here](http://stanford.edu/~mwaskom/software/seaborn/))
@@ -40,7 +43,7 @@ sudo apt-get install pymol python-numpy python-scipy python-matplotlib ipython i
 ```
 
 ### Windows users
-A good idea will be to install all the above packages using a python distribution like [Anaconda](https://store.continuum.io/cshop/anaconda/) or [EPD](https://www.enthought.com/products/epd/)
+A good idea will be to install all the above packages using a python distribution like [Anaconda](https://store.continuum.io/cshop/anaconda/).
 
 
 ## Language 
@@ -48,5 +51,5 @@ The first version of the material will be available in english, although a trans
 
 ## Contributing
 
-Please let me know of any error, suggestion, doubt, etc. You write me an e-mail and all commits are wellcome!!!
+Please let me know of any error, suggestion, doubt, etc. E-mails and commits are welcome!!!
 
