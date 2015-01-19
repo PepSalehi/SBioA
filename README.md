@@ -5,9 +5,9 @@ An introduction to Structural Bioinformatics Algorithms and scientific computing
 
 ## Contents
 
-The best way to take advantage of this material is to download a copy of this repository and run it in your computer (see below for installation details)
+The best way to take advantage of this material is to download a copy of the repository and run it into your computer (see below for installation details)
 
-Alternatively, you can see the static versions of the notebooks by following the above links
+Alternatively, you can see the static versions of the notebooks by following the below links:
 
 * Chapter 0 [Introduction](http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/00_Introduction.ipynb)
 * Chapter 1 [NumPy introduction](http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/01_NumPy_introduction.ipynb)
