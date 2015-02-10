@@ -29,12 +29,13 @@ You will need to install the following packages
 -  NumPy
 -  SciPy
 -  Matplotlib
--  Seaborn (optional)
 -  IPython
+-  Seaborn (optional)
+-  Numba (optional)
 
 
 ### Linux users
-All the above packages are available with most Linux distributions (except probably seaborn that can be downloaded [here](http://stanford.edu/~mwaskom/software/seaborn/))
+All the above packages are available with most Linux distributions (except probably [seaborn](http://stanford.edu/~mwaskom/software/seaborn/) and [numba](http://numba.pydata.org/download.html))
 
 If you are using Ubuntu (or a similar Linux-distribution) you can do:
 
@@ -43,13 +44,13 @@ sudo apt-get install pymol python-numpy python-scipy python-matplotlib ipython i
 ```
 
 ### Windows users
-A good idea will be to install all the above packages using a python distribution like [Anaconda](https://store.continuum.io/cshop/anaconda/).
+A good idea will be to install all the above packages using a Python distribution like [Anaconda](https://store.continuum.io/cshop/anaconda/).
 
 
 ## Language 
 The first version of the material will be available in english, although a translation to Spanish is planned in the short time. (El material estará disponible primero en ingles y más adelante en español)
 
-## Contributing
 
+## Contributing
 Please let me know of any error, suggestion, doubt, etc. E-mails and commits are welcome!!!
 
