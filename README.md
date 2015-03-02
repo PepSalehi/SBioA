@@ -15,7 +15,7 @@ Alternatively, you can see the static versions of the notebooks by following the
 * Chapter 3 [Distances, angles and geometry](http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/03_Distances_angles_and_geometry.ipynb)
 * Chapter 4 [Comparing structures](http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/04_Comparing_structures.ipynb)
 * Chapter 5 [Sequence alignment and clustering](http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/05_Sequence_alignment_and_clustering.ipynb)
-* Chapter 6 [Protein and RNA structure from sequence](https://github.com/aloctavodia/SBioA/blob/master/English/06_Protein_and_RNA_structure_from_sequence.ipynb)
+* Chapter 6 [Protein and RNA structure from sequence](http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/06_Protein_and_RNA_structure_from_sequence.ipynb)
 * Chapter 7 Local and global optimization methods. Coming really soon...
 
 
