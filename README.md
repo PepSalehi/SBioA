@@ -16,7 +16,7 @@ Alternatively, you can see the static versions of the notebooks by following the
 * Chapter 4 [Comparing structures](http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/04_Comparing_structures.ipynb)
 * Chapter 5 [Sequence alignment and clustering](http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/05_Sequence_alignment_and_clustering.ipynb)
 * Chapter 6 [Protein and RNA structure from sequence](http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/06_Protein_and_RNA_structure_from_sequence.ipynb)
-* Chapter 7 Local and global optimization methods. Coming really soon...
+* Chapter 7 [Energy computation and local and global optimization methods](http://nbviewer.ipython.org/github/aloctavodia/SBioA/blob/master/English/07_Local_and_global_optimization_methods_00.ipynb)
 
 
 Installation and configuration
